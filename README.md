@@ -1,4 +1,4 @@
-![Cover][(https://github.com/yayanhardiansah1/budaya-sasak-explore-time-/blob/main/cover%20budaya%20sasak%20explore.png?raw=true))
+![Cover](https://github.com/yayanhardiansah1/budaya-sasak-explore-time-/blob/main/cover%20budaya%20sasak%20explore.png?raw=true)
 
 # 🌴 Sasak Explore Tour & Travel
 Selamat datang di *Sasak Explore*! Teman perjalanan Anda menjelajahi keindahan alam dan budaya Lombok yang autentik.
